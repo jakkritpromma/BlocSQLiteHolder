@@ -1,1 +1,1 @@
-A Json placeholder project with Bloc state management and SQLite database
+A Json placeholder Flutter project written in Dart with Bloc state management and SQLite database
